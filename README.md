@@ -1,6 +1,6 @@
 # AI-Powered HR Assistant
 
-This project is an AI-powered HR assistant that uses LangChain, and Gradio to answer HR-related questions based on company policy documents.
+This project is an AI-powered HR assistant that uses LangChain and Gradio to answer HR-related questions based on company policy documents.
 
 ## Features
 
@@ -23,7 +23,7 @@ This project is an AI-powered HR assistant that uses LangChain, and Gradio to an
    ```
 
 3. **Add your environment variables**
-   - Create a `.env` file and add your HuggingFace and other API keys.
+   - Create a `.env` file and add your OpenAI API key.
 
 4. **Run the notebook or script**
    - Open the Jupyter notebook and run the cells, or run the Python script if provided.
@@ -46,7 +46,7 @@ This project is an AI-powered HR assistant that uses LangChain, and Gradio to an
 - [Gradio](https://gradio.app/)
 - [Chroma Vector Database](https://www.trychroma.com/)
 
-### Interface Questions-Answer
+### Output
 ![alt text](image.png)
 
 ## License
