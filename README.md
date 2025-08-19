@@ -47,7 +47,7 @@ This project is an AI-powered HR assistant that uses LangChain and Gradio to ans
 - [Chroma Vector Database](https://www.trychroma.com/)
 
 ### Output
-![alt text](image.png)
+<img src="image.png" alt="AI-Powered HR Assistant" width="400" style="display:block; margin:auto;">
 
 ## License
 
