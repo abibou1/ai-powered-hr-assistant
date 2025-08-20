@@ -16,6 +16,7 @@ This project is an AI-powered HR assistant that uses LangChain and Gradio to ans
    ```bash
    git clone https://github.com/yourusername/ai-powered-hr-assistant.git
    cd ai-powered-hr-assistant
+   streamlit run app.py
    ```
 2. **Install dependencies**
    ```bash
