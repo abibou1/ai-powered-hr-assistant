@@ -6,3 +6,4 @@ openai
 python-dotenv
 gradio
 sentence-transformers
+streamlit
