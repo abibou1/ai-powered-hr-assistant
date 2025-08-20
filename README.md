@@ -51,6 +51,6 @@ This project is an AI-powered HR assistant that uses LangChain and Gradio to ans
 <img src="outputGradio.png" alt="AI-Powered HR Assistant" width="400" style="display:block; margin:auto;">
 
 ### Output Streamlit
-<img src="outputStreamlit.png" alt="AI-Powered HR Assistant" width="400" style="display:block; margin:auto;">
+<img src="outputStreamlit.PNG" alt="AI-Powered HR Assistant" width="400" style="display:block; margin:auto;">
 
 ---
